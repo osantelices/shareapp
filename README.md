@@ -1,7 +1,12 @@
 shareapp
 ========
 
-It is a small plugin js made ​​to share content on social networks. 
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Small Plugin</h2>
+            <div class="wrap">
+            It is a small plugin js made ​​to share content on social networks. 
 is based on Bootstrap and jQuery 
 
 has a well-structured, according to the style technologies today in the purest style bootstrap 
@@ -11,6 +16,16 @@ at the initial stage only content sharing, we are working to make the plugin has
 <h3>How I can use?</h3>
 
 You only have to save the js file and call it from your in the section where you want your site to be shared as follows 
+
+            </div>
+        </div>
+    </div>
+</pre>
+
+
+
+
+
 
 
 <div class="wrap"><script type="text/javascript" src="app.js"> </ script></div>
