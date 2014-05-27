@@ -13,5 +13,5 @@ at the initial stage only content sharing, we are working to make the plugin has
 You only have to save the js file and call it from your in the section where you want your site to be shared, is a stream called like any js
 
 <h3>System conditions</h3>
-Boostrap v3
+Boostrap v3<br>
 Jquery 1.4
