@@ -14,4 +14,4 @@ You only have to save the js file and call it from your in the section where you
 
 <h3>System conditions</h3>
 Boostrap v3<br>
-Jquery 1.4
+JQuery 1.4
